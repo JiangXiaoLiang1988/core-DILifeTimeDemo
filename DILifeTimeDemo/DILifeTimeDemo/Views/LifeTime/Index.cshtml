@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+@Html.Partial("GuidItemPartial")
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="row"></div>
+    <div>
+        <h2>GuidItem Partial Show</h2>
+        <h3>TransientItem:@ViewBag.TransientItem</h3>
+        <h3>ScopedItem:@ViewBag.ScopedItem</h3>
+        <h3>SingletonItem:@ViewBag.SingletonItem</h3>
+    </div>    
+</body>
+</html>

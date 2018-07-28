@@ -1,0 +1,16 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using DILifeTimeDemo.Interface
+
+@inject IGuidTransientService  GuidTransientService
+@inject IGuidScopedService GuidScopedService
+@inject IGuidSingletonService GuidSingletonService
+<div class="row">
+    <div>
+        <h2>GuidItem Show</h2>
+        <h3>TransientItem:@GuidTransientService.GetGuid()</h3>
+        <h3>ScopedItem:@GuidScopedService.GetGuid()</h3>
+        <h3>SingletonItem:@GuidSingletonService.GetGuid()</h3>
+    </div>
+</div>

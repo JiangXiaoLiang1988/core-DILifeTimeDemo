@@ -1,0 +1,11 @@
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\bin\Debug\netcoreapp2.0\DILifeTimeDemo.deps.json
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\bin\Debug\netcoreapp2.0\DILifeTimeDemo.runtimeconfig.json
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\bin\Debug\netcoreapp2.0\DILifeTimeDemo.runtimeconfig.dev.json
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\bin\Debug\netcoreapp2.0\DILifeTimeDemo.dll
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\bin\Debug\netcoreapp2.0\DILifeTimeDemo.pdb
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\obj\Debug\netcoreapp2.0\DILifeTimeDemo.csproj.CoreCompileInputs.cache
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\obj\Debug\netcoreapp2.0\DILifeTimeDemo.AssemblyInfoInputs.cache
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\obj\Debug\netcoreapp2.0\DILifeTimeDemo.AssemblyInfo.cs
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\obj\Debug\netcoreapp2.0\DILifeTimeDemo.dll
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\obj\Debug\netcoreapp2.0\DILifeTimeDemo.pdb
+D:\学习\core\依赖注入生命周期\DILifeTimeDemo\DILifeTimeDemo\obj\Debug\netcoreapp2.0\DILifeTimeDemo.csprojResolveAssemblyReference.cache
